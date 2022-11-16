@@ -1,0 +1,59 @@
+{
+  "name": "trans",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.6",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^4.3.1",
+    "lodash.throttle": "^4.1.1",
+    "mdb-react-ui-kit": "^4.2.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-animation-on-scroll": "^5.1.0",
+    "react-countup": "^6.3.1",
+   
+    "react-flip-numbers": "^3.0.7",
+    "react-icons": "^4.6.0",
+    "react-rating-stars-component": "^2.2.0",
+    "react-redux": "^8.0.4",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "5.0.1",
+    "react-smooth-number-counter": "^0.0.5",
+    "react-spring": "^9.5.5",
+    "react-transition-value": "^1.0.6",
+    "react-visibility-sensor": "^5.1.1",
+    "redux": "^4.2.0",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0",
+    "serviceworker": "^0.1.7",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
